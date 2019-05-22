@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="macClass" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="macClass" />
+    <module name="macIDMaven" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
